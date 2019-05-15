@@ -149,7 +149,7 @@ def sample(epoch):
         x = x.numpy()
 
         subfig_plot(3, z, -3, 3, -3, 3, 'Input: z ~ p(z)', 'r')
-        subfig_plot(4, x, -2, 3, -1, 1.5,'Output: x = g(x) (g: inverse of f)', 'r')
+        subfig_plot(4, x, -2, 3, -1, 1.5,'Output: x = g(z) (g: inverse of f)', 'r')
 
         if epoch % SAVE_PLT_INTERVAL == 0:
             if not os.path.exists('results'):
