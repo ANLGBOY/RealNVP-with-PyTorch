@@ -2,7 +2,7 @@
 PyTorch implementation of Real NVP for Two Moons
 
 ## Description
-This is implementation of real-valued non-volume perserving(real NVP) for Density Estimation(real NVP). I used Two Moons dataset of sklearn and tried to reproduce fig.1 in the paper. 
+This is implementation of real-valued non-volume preserving(real NVP) for Density Estimation(real NVP). I used Two Moons dataset of sklearn and tried to reproduce fig.1 in the paper. 
 
 ## Results
 The following results were obtained with the default setting. (command: python main.py)
