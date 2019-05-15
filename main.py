@@ -13,7 +13,7 @@ import os
 # --- configuration --- #
 BATCH_SIZE = 128
 LOG_INTERVAL = 50
-EPOCHS = 25
+EPOCHS = 20
 INPUT_DIM = 2
 OUTPUT_DIM = 2
 HIDDEN_DIM = 256

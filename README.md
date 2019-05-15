@@ -12,7 +12,7 @@ The following results were obtained with the default setting. (command: python m
 <td> Result </td>
 </tr>
 <tr>
-<td><img src = 'results/result_25.png'></td>
+<td><img src = 'results/result_20.png'></td>
 </tr>
 </table>
 
